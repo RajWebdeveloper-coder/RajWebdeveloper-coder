@@ -12,21 +12,16 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning C, Python, Web Development
-- 👯 I’m looking to collaborate on GitHub, LinkedIn, Instagram, Youtube
+- 🌱 I’m currently learning Web Development, Cyber Security.
+- 👯 I’m looking to collaborate on GitHub, LinkedIn.
 <!--
 - 🤔 I’m looking for help with C-->
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_raj_kumar_09)
-- ⚡ Hobbies: Content Creation, Coding
-- 📹 My Content: [YouTube](https://youtube.com/geekdude)
+- ⚡ Hobbies: Coding, Researcher
 <br />
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-<br />
-
-[![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)](https://linkedin.com/in/geekdude)
-[![GitHub Raj Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/RajWebdeveloper-coder)
+[![Linkedin: Rajkumar Kumar](https://img.shields.io/badge/-rajkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rajkumar-chaturvedi)](https://linkedin.com/in/rajkumar-chaturvedi)
+[![GitHub Raj Kumar](https://img.shields.io/github/followers/RajWebdeveloper-coder?label=follow&style=social)](https://github.com/RajWebdeveloper-coder)
 
 ### Languages and Tools:
 
