@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on GitHub, LinkedIn.
 <!--
 - 🤔 I’m looking for help with C-->
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_raj_kumar_09)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/_raj__kumar__09)
 - ⚡ Hobbies: Coding, Researcher
 <br />
 
